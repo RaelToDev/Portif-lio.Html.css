@@ -1,0 +1,17 @@
+* {
+    font-family: "Montserrat", sans-serif, roboto;
+  }
+
+h1 {
+    color: rgb(76, 220, 76);
+}
+#titulo {
+    color: #3871a7;
+  }
+  
+  .subtitulo {
+    color: #39393c;
+  }
+  .conteiner{
+    display: flex;
+  }
