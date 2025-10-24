@@ -14,4 +14,28 @@ h1 {
   }
   .conteiner{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px
+    ;
   }
+#fotokilua {
+    height: 350px
+}
+.botao1{ background-color: #3871a7;
+    color: white;
+    font-weight: bold;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 5px;
+
+}
+.botao2 {
+    background-color: transparent;
+    color: #3871a7;
+    font-weight: bold;
+    padding: 5px 30px;
+    border: 1px solid #3871a7;
+    border-radius: 5px;
+}
+#conteiner.2
